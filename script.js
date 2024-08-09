@@ -1,7 +1,7 @@
 // Get references to the table body and form elements (you'll need to add a form to your HTML later)
 const leaderboardBody = document.getElementById('leaderboard-body');
-const nameInput = document.getElementById('name'); // Replace 'name' with the actual ID of your name input field
-const timeInput = document.getElementById('time'); // Replace 'time' with the actual ID of your time input field
+const nameInput = document.getElementById('Naam'); // Replace 'name' with the actual ID of your name input field
+const timeInput = document.getElementById('Tijd'); // Replace 'time' with the actual ID of your time input field
 
 // Function to add a new entry to the leaderboard
 function addEntry(name, time) {
